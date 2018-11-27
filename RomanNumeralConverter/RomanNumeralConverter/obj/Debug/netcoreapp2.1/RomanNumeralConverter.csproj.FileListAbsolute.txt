@@ -1,0 +1,11 @@
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/bin/Debug/netcoreapp2.1/RomanNumeralConverter.deps.json
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/bin/Debug/netcoreapp2.1/RomanNumeralConverter.runtimeconfig.json
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/bin/Debug/netcoreapp2.1/RomanNumeralConverter.runtimeconfig.dev.json
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/bin/Debug/netcoreapp2.1/RomanNumeralConverter.dll
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/bin/Debug/netcoreapp2.1/RomanNumeralConverter.pdb
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/obj/Debug/netcoreapp2.1/RomanNumeralConverter.csprojAssemblyReference.cache
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/obj/Debug/netcoreapp2.1/RomanNumeralConverter.csproj.CoreCompileInputs.cache
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/obj/Debug/netcoreapp2.1/RomanNumeralConverter.AssemblyInfoInputs.cache
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/obj/Debug/netcoreapp2.1/RomanNumeralConverter.AssemblyInfo.cs
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/obj/Debug/netcoreapp2.1/RomanNumeralConverter.dll
+/Users/jonathan.alphonso/RiderProjects/RomanNumeralKata/RomanNumeralConverter/RomanNumeralConverter/obj/Debug/netcoreapp2.1/RomanNumeralConverter.pdb
